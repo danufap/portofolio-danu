@@ -1,0 +1,25 @@
+body {
+    font-family: "Poppins";
+  }
+
+.jumbotron {
+    padding-top: 8rem;
+    background-color: #F1EAFF;
+}
+
+section {
+    padding-top: 8rem;
+}
+
+#experience {
+    background-color: #F1EAFF;
+}
+
+#kontak {
+    background: rgb(241,234,255);
+    background: linear-gradient(180deg, rgba(241,234,255,1) 40%, rgba(255,255,255,1) 100%);
+}
+
+footer {
+    background-color: #d0a2f7;
+}
